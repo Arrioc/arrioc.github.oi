@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Arrioc/arrioc.github.oi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Hello there! This strange concoction which you are viewing is my ePortfolio. 
 
-### Markdown
+This ePortfolio is about a program which I created in my CS 340 Client-Server course. I chose this project because it utilizes a culmination of concepts from past courses that best reflects my skills in software design and engineering, algorithms and data structures, and databases. In other words, it best demonstrates my knowledge and competence in solving real world problems that deliver value. What is more, it is all my own. My goal is to demonstrate my skills and abilities in three areas: software design and engineering, algorithms and data structures, and databases.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+The following is a code review that explains the code, analyzes the code for flaws and decides on a plan. The plan initially is to improve the design by enhancing existing code, add to the complexity of the design by adding new features, and enhancing the database by performance-tuning it. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Arrioc/arrioc.github.oi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Watch [Arrioc's Video]. (https://www.youtube.com/watch?v=wDXqfWe2RQw)
+Its about 41 minutes. I will edit this down in the future. Lets consider this a rough first draft.
