@@ -7,5 +7,5 @@ This ePortfolio is about a program which I created in my CS 340 Client-Server co
 
 The following is a code review that explains the code, analyzes the code for flaws and decides on a plan. The plan initially is to improve the design by enhancing existing code, add to the complexity of the design by adding new features, and enhancing the database by performance-tuning it. 
 
-Watch [Arrioc's Video]. (https://www.youtube.com/watch?v=wDXqfWe2RQw)
+Watch [Arrioc's Video] (https://www.youtube.com/watch?v=wDXqfWe2RQw)
 Its about 41 minutes. I will edit this down in the future. Lets consider this a rough first draft.
