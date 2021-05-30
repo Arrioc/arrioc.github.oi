@@ -13,6 +13,6 @@ The following is a code review that explains the code, analyzes the code for fla
 Watch [Arrioc's Video](https://www.youtube.com/watch?v=wDXqfWe2RQw)
 
 
-Let's consider this a rough first draft, I'm slightly new to video making. 
+It's a bitt of a rough first draft. :sweat_smile:
 
 The plan initially is to improve the design by enhancing existing code, add to the complexity of the design by adding new features, and enhancing the database by performance-tuning it. 
