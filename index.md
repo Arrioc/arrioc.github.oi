@@ -14,7 +14,7 @@ Whats more, it's all my own!
 It's 41m. In the future I'll edit this down. It's a bit of a rough first draft. 😅
 
 
-Watch [Arrioc's Video](https://www.youtube.com/watch?v=wDXqfWe2RQw)
+Watch [Arrioc's Video!](https://www.youtube.com/watch?v=wDXqfWe2RQw)
 
 
 The initial plan is to improve the design by enhancing existing code, add to the complexity of the design by adding new features, and enhancing the database through performance-tuning. 
