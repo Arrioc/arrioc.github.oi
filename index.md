@@ -15,4 +15,4 @@ Watch [Arrioc's Video](https://www.youtube.com/watch?v=wDXqfWe2RQw)
 
 It's a bit of a rough first draft. 😅
 
-The plan initially is to improve the design by enhancing existing code, add to the complexity of the design by adding new features, and enhancing the database by performance-tuning it. 
+The inittial plan is to improve the design by enhancing existing code, add to the complexity of the design by adding new features, and enhancing the database through performance-tuning. 
