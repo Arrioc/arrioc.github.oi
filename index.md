@@ -1,10 +1,11 @@
 
 
-# Hello there! This strange concoction you're viewing is my ePortfolio. 
+# Hello there! This is my ePortfolio.
 
 This ePortfolio is about a program which I created in my CS 340 Client-Server course. I chose this project because it utilizes a culmination of concepts from past courses that best reflect my skills in software design/engineering, algorithms and thier data structures, and databases. In other words, it best demonstrates my knowledge and competence in solving real world problems that deliver value. 
 
 Whats more, it's all my own! 
+
 
 
 
