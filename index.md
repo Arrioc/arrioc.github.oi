@@ -11,7 +11,7 @@ Whats more, it's all my own!
 
 
 
-## The following is a code review 
+## The following is a code review...
 that explains the chosen project and its code, analyzes the code for flaws, and decides on a plan for enhancement. 
 The video is 41m. I'd like to edit this down soon. It's a bit of a rough second draft. 😅
 
