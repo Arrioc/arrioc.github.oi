@@ -10,7 +10,7 @@ Whats more, it's all my own!
 
 
 
-## The following is a code review that explains the code, analyzes the code for flaws and decides on a plan. 
+## The following is a code review that explains the code, analyzes the code for flaws, and decides on a plan. 
 It's 41m. In the future I'll edit this down. It's a bit of a rough first draft. 😅
 
 
