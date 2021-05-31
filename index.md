@@ -10,8 +10,8 @@ Whats more, it's all my own!
 
 
 
-## The following is a code review that explains the code, analyzes the code for flaws, and decides on a plan. 
-The video is 41m. In the very near future I'll edit this down. It's a bit of a rough first draft. 😅
+## The following is a code review that explains the chosen project and its code, analyzes the code for flaws, and decides on a plan for enhancement. 
+The video is 41m. In the very near future I'll edit this down. It's a bit of a rough second draft. 😅
 
 
 Watch [Arrioc's Video!](https://www.youtube.com/watch?v=wDXqfWe2RQw)
