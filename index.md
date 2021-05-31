@@ -11,7 +11,7 @@ Whats more, it's all my own!
 
 
 ## The following is a code review that explains the code, analyzes the code for flaws, and decides on a plan. 
-It's 41m. In the future I'll edit this down. It's a bit of a rough first draft. 😅
+The video is 41m. In the very near future I'll edit this down. It's a bit of a rough first draft. 😅
 
 
 Watch [Arrioc's Video!](https://www.youtube.com/watch?v=wDXqfWe2RQw)
