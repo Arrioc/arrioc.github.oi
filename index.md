@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![myCatASCII](https://user-images.githubusercontent.com/73560858/120906778-6330ca00-c62a-11eb-8e63-6b8045a791f2.png)">
+  <img src=![myCatASCII](https://user-images.githubusercontent.com/73560858/120906778-6330ca00-c62a-11eb-8e63-6b8045a791f2.png)>
 </p>
 
 # Hello there! This is my ePortfolio.
