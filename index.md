@@ -1,6 +1,5 @@
-<p align="center">
-  <img align="left" width="200" height="155" src="(https://user-images.githubusercontent.com/73560858/120906778-6330ca00-c62a-11eb-8e63-6b8045a791f2.png)">
-</p>
+![myCatASCIIsmaller](https://user-images.githubusercontent.com/73560858/120907519-27006800-c630-11eb-8353-74487520dd3c.jpg)
+
 
 # Hello there! This is my ePortfolio.
 This ePortfolio is about a program I created in my CS 340 Client-Server course. I chose this project because it utilizes a culmination of concepts from past courses that best reflect my skills in software design/engineering, algorithms and thier data structures, and databases. In other words, it best demonstrates my knowledge and competence in solving real world problems that deliver value. 
