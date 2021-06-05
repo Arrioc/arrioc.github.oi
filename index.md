@@ -18,7 +18,7 @@ that explains the chosen project and its code, analyzes the code for flaws, and 
 The video is 41m. I'd like to edit this down soon. It's a bit of a rough second draft. 😅
 
 
-Watch [Arrioc's Video!](https://www.youtube.com/watch?v=wDXqfWe2RQw)
+Watch [Arrioc's Video!](https://www.youtube.com/watch?v=wDXqfWe2RQw) /play butts
 
 
 The initial plan is to improve the design by enhancing existing code, add to the complexity of the design by adding new features, and enhancing the database through performance-tuning. 
