@@ -20,7 +20,7 @@ The initial plan is to improve the design by enhancing existing code, add to the
 
 # Enhancement One: Software Design & Engineering
 
-## The artifact
+**The artifact**
 ######    The artifact I chose for enhancement is a RESTful webservice stack with an industry-standard interface that I created in my CS 340 Client-Server course six months ago. This program can perform queries and aggregations, reporting on documents in the database in numerous ways. It can also create, read, update, and delete (CRUD) documents for a stock broking company both internally and externally through a web service that utilizes the RESTful API.
 Artifact Rationale
     I chose this project because it is a culmination of my understanding of past courses and best reflects my skills in software design and engineering in that it demonstrates my knowledge and competence in solving real world problems that deliver value. What is more, it is all my own in that it does not lean on someone else’s ability to design solutions to a problem.
@@ -44,7 +44,6 @@ Artifact Rationale
  
  
 ## References
-
 Chodorow, K. (2013). Mongo DB: The definitive guide (2nd ed.). O’Reilly Media, Inc. https://www.oreilly.com/library/view/mongodb-the-definitive/9781449344795/
 Sriparasa, S., & D’mello, B. (2018). JavaScript and JSON essentials : Build light weight, scalable, and faster web applications with the power of JSON (2nd ed.). Packt Publishing. https://search-ebscohost-com.ezproxy.snhu.edu/login.aspx?direct=true&db=nlebk&AN=1801025&site=eds-live&scope=site
 
