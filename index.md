@@ -1,12 +1,10 @@
 ![myCatASCIIsmaller](https://user-images.githubusercontent.com/73560858/120907519-27006800-c630-11eb-8353-74487520dd3c.jpg)
 
 
-# Hello there! This is my ePortfolio.
+# Hello and Welcome! This ePortfolio features a program iteration with more to come! 
 This ePortfolio is about a program I created in my CS 340 Client-Server course. I chose this project because it utilizes a culmination of concepts from past courses that best reflect my skills in software design/engineering, algorithms and thier data structures, and databases. In other words, it best demonstrates my knowledge and competence in solving real world problems that deliver value. 
 
 Whats more, it's all my own! 
-
-
 
 
 ## The following is a code review...
@@ -18,3 +16,5 @@ Watch [Arrioc's Video!](https://www.youtube.com/watch?v=wDXqfWe2RQw)
 
 
 The initial plan is to improve the design by enhancing existing code, add to the complexity of the design by adding new features, and enhancing the database through performance-tuning. 
+
+
