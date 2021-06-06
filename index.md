@@ -23,7 +23,7 @@ My plan for database enhancement is to utilize more advanced administrative meth
 
 
 
-# Enhancement One: Software Design & Engineering
+# Software Design & Engineering
 
 ## The artifact
 The artifact I chose for enhancement is a RESTful webservice stack with an industry-standard interface that I created in my CS 340 Client-Server course six months ago. This program can perform queries and aggregations, reporting on documents in the database in numerous ways. It can also create, read, update, and delete (CRUD) documents for a stock broking company both internally and externally through a web service that utilizes the RESTful API.
