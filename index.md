@@ -1,4 +1,4 @@
-![myCatASCIIsmaller](https://user-images.githubusercontent.com/73560858/120907519-27006800-c630-11eb-8353-74487520dd3c.jpg)
+![myCatASCII](https://user-images.githubusercontent.com/73560858/120911070-355f7b80-c652-11eb-96c7-309bdd3cd158.png)
 
 
 # Hello and Welcome! This ePortfolio features a program iteration with more to come! 
