@@ -49,7 +49,7 @@ Both the internal and API modules show that I understand how to connect to the d
  * I almost gave up creating more readable output because sites like StackOverflow repeatedly siad it was not possible (Stack Exchange Inc, 2015). It helped to study an old project I made, a “timestamp” module whose output looked ideal. In studying this code, I learned that I first need to use “loads” before it is printed, and then use “dumps” along with some commands inside the print statement. You can use “loads” in either the print statement (or the "return" statement) or prior to printing. Inside the print parentheses, but after the data being printed, I put “indent=4, default=json_util.default.” That indents the data, making it more readable. I then applied this technique to every program that outputs data. Even though an API would typically have a front-end handling readability, I felt future developers might appreciate it readability for the API as well. I then made a post to StackOverflow for future questioners like myself. Since then, someone edited it to look nicer using color coding and highlighting, which I was surprised to see.
 
 
-## References
+**References**
 ###### Chodorow, K. (2013). Mongo DB: The definitive guide (2nd ed.). O’Reilly Media, Inc. https://www.oreilly.com/library/view/mongodb-the-definitive/9781449344795/
 
 ###### Sriparasa, S., & D’mello, B. (2018). JavaScript and JSON essentials : Build light weight, scalable, and faster web applications with the power of JSON (2nd ed.). Packt Publishing. https://search-ebscohost-com.ezproxy.snhu.edu/login.aspx?direct=true&db=nlebk&AN=1801025&site=eds-live&scope=site
