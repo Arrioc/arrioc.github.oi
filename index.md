@@ -25,8 +25,8 @@ My plan for database enhancement is to utilize more advanced administrative meth
 
 # Software Design & Engineering
 
-## The artifact
-The artifact I chose for enhancement is a RESTful webservice stack with an industry-standard interface that I created in my CS 340 Client-Server course six months ago. This program can perform queries and aggregations, reporting on documents in the database in numerous ways. It can also create, read, update, and delete (CRUD) documents for a stock broking company both internally and externally through a web service that utilizes the RESTful API.
+* ## The artifact
+  * The artifact I chose for enhancement is a RESTful webservice stack with an industry-standard interface that I created in my CS 340 Client-Server course six months ago. This program can perform queries and aggregations, reporting on documents in the database in numerous ways. It can also create, read, update, and delete (CRUD) documents for a stock broking company both internally and externally through a web service that utilizes the RESTful API.
 Artifact Rationale
 
 I chose this project because it is a culmination of my understanding of past courses and best reflects my skills in software design and engineering in that it demonstrates my knowledge and competence in solving real world problems that deliver value. What is more, it is all my own in that it does not lean on someone else’s ability to design solutions to a problem.
