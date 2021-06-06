@@ -33,6 +33,7 @@ My plan for database enhancement is to utilize more advanced administrative meth
 
 * ## Knowledge Acquisition
   * The MongoDB database shows that I understand how to import and manage a distributed database using appropriate MongoDB statements, such as creating simple and complex indexes. This is an important skill to have because “NoSQL databases like MongoDB are emerging as the next big thing” (Sriparasa & D’mello, 2018, p. 136). This NoSQL database is fast, flexible, and scalable, and it provides tons of features that do not sacrifice speed (Chodorow, 2013, pp. 3-5). 
+
   * Both the internal and API modules show that I understand how to connect to the database and carry out simple and complex functions using the appropriate JavaScript Object Notation (JSON), a widely popular data interchange format (Sriparasa & D’mello, 2018, p. 6). This is a critical skill to have because JSON is the go-to language for data interchange today (Sriparasa & D’mello, 2018, pp. 6-7). The internal and API modules show that I understand how apply CRUD functions for MongoDB database documents, perform queries and aggregations, test the code, find solutions to problems using branches and loops, and perform exception handling. The API modules show that I understand how to create and test uniform resource identifiers (URL’s) and implement the use of a basic RESTful web service using a language-specific web service framework like Bottle to rout paths and perform connections. 
 
 * ## Collaboration
