@@ -2,10 +2,7 @@
 
 
 # Hello and Welcome! This ePortfolio features a program iteration with more to come! 
-This ePortfolio is about a program I created in my CS 340 Client-Server course. I chose to enhance this project because it utilizes a culmination of concepts from past courses that best reflect my skills in software engineering, algorithms and thier data structures, and databases. In other words, it best demonstrates my knowledge and competence in solving real world problems that deliver value. 
-
-Whats more, it's all my own! 
-
+This ePortfolio is about a program I created in my CS 340 Client-Server course. I chose to enhance this project because it utilizes a culmination of concepts from past courses that best reflect my skills in software engineering, algorithms and thier data structures, and databases. 
 
 ## The following is a code review...
 that explains the chosen project and its code, analyzes the code for flaws, and decides on a plan for enhancement. 
