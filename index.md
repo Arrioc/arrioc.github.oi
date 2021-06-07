@@ -19,8 +19,8 @@ The plan for algorithms and data structures is to add to the complexity of the a
 
 My plan for database enhancement is to utilize more advanced administrative methods to investigate and apply performance tuning on the database, with the end-goal of improving database efficiency by speeding up its reads and writes.
 
-# The artifact
-  * The artifact I chose for enhancement is a RESTful webservice stack with an industry-standard interface that I created in my CS 340 Client-Server course six months ago. This program can perform queries and aggregations, reporting on documents in the database in numerous ways. It can also create, read, update, and delete (CRUD) documents for a stock broking company both internally and externally through a web service that utilizes the RESTful API.
+# The Artifact
+  * The artifact I chose for enhancement is a representational state transfer (RESTful) webservice stack with an industry-standard interface that I created in my CS 340 Client-Server course six months ago. This program can perform queries and aggregations, reporting on documents in the database in numerous ways. It can also create, read, update, and delete (CRUD) documents for a stock broking company both internally and externally through a web service that utilizes the RESTful application programming interface (API).
  
 # Artifact Rationale
   * I chose to enhance this project because it is a culmination of my understanding of past courses and best reflects my skills in software design and engineering in that it demonstrates my knowledge and competence in solving real world problems that deliver value. There are a dozen different algorithms, each within their own portable and reusable module, and they all interact with the MongoDB database. Perfect for showing off my skills in implementing algorithms and display database prowess. What is more, it is all my own in that it does not lean on someone else’s ability to design solutions to the problem.
