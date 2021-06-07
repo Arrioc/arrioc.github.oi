@@ -53,6 +53,16 @@ My plan for database enhancement is to utilize more advanced administrative meth
    * After:
    * ![internal update, after](https://user-images.githubusercontent.com/73560858/121097482-09630800-c7c2-11eb-936e-2f46bb8b08f4.png)
 
+  * ## Better readability example: 
+   * ![terminal, server, APIindustryReport, fixed output- beautified](https://user-images.githubusercontent.com/73560858/121100215-59909900-c7c7-11eb-9e8b-4d0f4baf119b.png)
+  
+  * ## Better API update example:
+   * Hard-coded vs. not hardcoded & entered curl
+   * ![APIupdate, before, after, curl](https://user-images.githubusercontent.com/73560858/121099782-7e384100-c7c6-11eb-955e-31cca216d171.png)
+   
+   * Database before and after entered curl:
+   * ![APIupdate database before and after](https://user-images.githubusercontent.com/73560858/121099895-bfc8ec00-c7c6-11eb-95d4-724091db8373.png)
+
 # Algorithms and Data Structures
 * ## Knowledge Acquisition
   * This artifact showcases a diverse collection of skills and abilities in using algorithms and data structures to perform useful database manipulations that meet the client’s needs. The artifact makes use of dictionaries, arrays, methods, functions, calls, conditional branches, expressions, statements, returns, formatting, dot-notation, and input/output using a combination of the MongoDB, Pymongo and Bottle languages and commands. The API modules show that I can create and test uniform resource identifiers (URL’s) and implement a basic RESTful web service using a language-specific web service frameworks, like Bottle, to rout paths and perform connections. 
