@@ -1,5 +1,5 @@
 ![myCatASCII](https://user-images.githubusercontent.com/73560858/120911070-355f7b80-c652-11eb-96c7-309bdd3cd158.png)
-
+###### * ASCII Art by Jessica Kilbourne. 
 
 # Hello and Welcome! This ePortfolio features a program iteration with more to come! 
 This ePortfolio is about a program I created in my CS 340 Client-Server course. I chose to enhance this project because it utilizes a culmination of concepts from past courses that best reflect my skills in software engineering, algorithms and thier data structures, and databases. 
