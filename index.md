@@ -53,10 +53,13 @@ My plan for database enhancement is to utilize more advanced administrative meth
    * After:
    * ![internal update, after](https://user-images.githubusercontent.com/73560858/121097482-09630800-c7c2-11eb-936e-2f46bb8b08f4.png)
 
-  * ## Better readability example: 
+ * ## Better readability example: 
+   * Before:
+   * ![indusrtyReport server result](https://user-images.githubusercontent.com/73560858/121100869-b50f5680-c7c8-11eb-89a1-6c413dab85a4.png)
+   * After:
    * ![terminal, server, APIindustryReport, fixed output- beautified](https://user-images.githubusercontent.com/73560858/121100215-59909900-c7c7-11eb-9e8b-4d0f4baf119b.png)
   
-  * ## Better API update example:
+ * ## Better API update example:
    * Hard-coded vs. not hardcoded & entered curl
    * ![APIupdate, before, after, curl](https://user-images.githubusercontent.com/73560858/121099782-7e384100-c7c6-11eb-955e-31cca216d171.png)
    
