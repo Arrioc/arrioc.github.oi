@@ -45,6 +45,10 @@ My plan for database enhancement is to utilize more advanced administrative meth
   
   * I almost gave up creating more readable output because sites like StackOverflow repeatedly siad it was not possible (Stack Exchange Inc, 2015). Help-site opinions are not always accurate. Sometimes it helps to ignore opinions and dive deeper. For me, it helped to study an old exercise (a “timestamp” module) whose output to the terminal looked ideal. The code used “loads” before printing, and then use “dumps” along with some commands inside the print statement. Inside the print parentheses, after the string or variable to print, one can write “indent=4, default=json_util.default.” This indents the data, making it more exposed and orderly. I then applied this knowledge to every module that outputs data, including the API (for future developers). I then made a post about my discovery to StackOverflow, for future questioners like myself. Since then, someone edited it to look nicer using color coding and highlighting, which I was surprised to see.
 
+Better input example: Before and after.
+![internal update before2](https://user-images.githubusercontent.com/73560858/121097269-b8531400-c7c1-11eb-823d-812ec4353a28.jpg) ![internal update, after](https://user-images.githubusercontent.com/73560858/121097482-09630800-c7c2-11eb-936e-2f46bb8b08f4.png)
+
+
 # Algorithms and Data Structures
 * ## Knowledge Acquisition
   * This artifact showcases a diverse collection of skills and abilities in using algorithms and data structures to perform useful database manipulations that meet the client’s needs. The artifact makes use of dictionaries, arrays, methods, functions, calls, conditional branches, expressions, statements, returns, formatting, dot-notation, and input/output using a combination of the MongoDB, Pymongo and Bottle languages and commands. The API modules show that I can create and test uniform resource identifiers (URL’s) and implement a basic RESTful web service using a language-specific web service frameworks, like Bottle, to rout paths and perform connections. 
