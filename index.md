@@ -1,4 +1,4 @@
-![myCatASCII](https://user-images.githubuserc ![myCatASCII](https://user-images.githubusercontent.com/73560858/120911070-355f7b80-c652-11eb-96c7-309bdd3cd158.png)
+![myCatASCII](https://user-images.githubusercontent.com/73560858/120911070-355f7b80-c652-11eb-96c7-309bdd3cd158.png)
 ###### ASCII Art by Jessica Kilbourne. 
 
 
