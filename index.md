@@ -9,7 +9,7 @@ This ePortfolio is about a program I created in my CS 340 Client-Server course. 
 that explains the chosen project and its code, analyzes the code for flaws, and decides on a plan for enhancement. 
 
 
-The vid ontent.com/73560858/120911070-355f7b80-c652-11eb-96c7-309bdd3cd158.png)
+Watch [Arrioc's Video!](https://www.youtube.com/watch?v=wDXqfWe2RQw)
 ###### * ASCII Art by Jessica Kilbourne. 
 
 
