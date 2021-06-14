@@ -114,7 +114,8 @@ There is a menue and the fifteen modules which it calls.
 
 ## The Menu
 
-```import os
+```python
+import os
 
 \# This method provides an initial menu that 
 \# allows the user to chose between internal 
