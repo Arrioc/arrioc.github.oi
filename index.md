@@ -1,4 +1,15 @@
-![myCatASCII](https://user-images.githubusercontent.com/73560858/120911070-355f7b80-c652-11eb-96c7-309bdd3cd158.png)
+![myCatASCII](https://user-images.githubuserc ![myCatASCII](https://user-images.githubusercontent.com/73560858/120911070-355f7b80-c652-11eb-96c7-309bdd3cd158.png)
+###### * ASCII Art by Jessica Kilbourne. 
+
+
+# Hello and Welcome! This ePortfolio features a program iteration with more to come! 
+This ePortfolio is about a program I created in my CS 340 Client-Server course. I chose to enhance this project because it utilizes a culmination of concepts from past courses that best reflect my skills in software engineering, algorithms and thier data structures, and databases. 
+
+## The following is a code review...
+that explains the chosen project and its code, analyzes the code for flaws, and decides on a plan for enhancement. 
+
+
+The vid ontent.com/73560858/120911070-355f7b80-c652-11eb-96c7-309bdd3cd158.png)
 ###### * ASCII Art by Jessica Kilbourne. 
 
 
@@ -97,3 +108,17 @@ My plan for database enhancement is to utilize more advanced administrative meth
 
    * ###### Vivek, G. (2013, Dec 30). Python execute unix: Linux command examples. NixCraft. https://www.cyberciti.biz/faq/python-execute-unix-linux-command-examples/?__cf_chl_captcha_tk__=9bb51b5678d4ae41b922f8e73efc57d23d3559d6-1622059002-0-AcnFbvo4ZSPblHayQIbaQwyGXmPaaL2hezAfnWWm1oyv9ltGtxiXbF5AhKuRswuvjVBfALMQu4h4WOkB2Gzj3PVNgE0tWWENDj254bVYgM2k2gp6_NhPLulaHF6-U1bJb9GLVIcuK54JQlxcgo0TbKwApyZYToLtLN26q0UtOtsWIkufUP9j0VgHckL3ZuWM-TpmyVByMqZeWiD9Nbu8kNQxWViCJiRQ7LbRzGt9zr1D9D3HcMU-RFP3G-ywfC16dspUH_H5CQqUuyHYOzvhtJsd4h5uAQqJIQQsD5sNQekdioAlTzJexg_IbhygV3VDykNa73J5SWNEB1gquBxzYXBUDQsHOYRiBEuzfW1YhcUlmZ28yzKeFjLy4p3zHorQFmJmNndRj-5BoRulc_znV5Gj6-GiJuulchUfQUpkBy9FbVrk1yanKAatmhGu5YuVmbwHSoFYzMhc6HMnde3GH7UGPVwFF2Xg_SwQzhlviYW2eZITo7x6lSsu_iiL1gcTICEyQzKhdxJuwNFJjRotoO0LgDIiZONunnujhus_zkxRBHhN7jPP-qkGSvh_izK7khrtHw4oaS0Mxbc2NjT9THKk0iOpuXhnnJGGTL0hkIwB5ciqJlIAvmgiqvtGK7Ut-fjR0nydRM6DQl3e68cTFBbjNgXDSJDu64Kth7sjUgedo9bHIz3XW23_3b78xv5kRmyk53b2g5u1LLHBFmSDLC_0QhOWX6Zp2h3W9AbHT93l
 
+
+```python
+def main_menu():
+  reply = True
+  print('Welcome to Kilbourne Financial\'s Stock Market Services. \nPlease select from the following:')
+  #let user chooses from two types of services
+  while reply:
+    print("""
+    1 Internal services
+    2 Web services
+    3 Exit """)
+        
+    reply = raw_input()
+```
