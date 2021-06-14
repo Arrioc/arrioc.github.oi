@@ -117,14 +117,14 @@ There is a menue and the fifteen modules which it calls.
 ```python
 import os
 
-\# This method provides an initial menu that 
-\# allows the user to chose between internal 
-\# and web based services.
+# This method provides an initial menu that 
+# allows the user to chose between internal 
+# and web based services.
 
 def main_menu():
   reply = True
   print('Welcome to Kilbourne Financial\'s Stock Market Services. \nPlease select from the following:')
-  \#let user chooses from two types of services
+  #let user chooses from two types of services
   while reply:
     print("""
     1 Internal services
@@ -145,14 +145,14 @@ def main_menu():
     else:
       print('Does not compute! Try agian.')
 
-\# This method provides services through the internal service
-\# by taking a selection from the user and then executing 
-\# the chosen module. When finished we return to the main menu
+# This method provides services through the internal service
+# by taking a selection from the user and then executing 
+# the chosen module. When finished we return to the main menu
       
 def internal():
   select = True
   print('Welcome to internal services. \nPlease choose from the following:')
-  \#let user chose from different internal services
+  #let user chose from different internal services
   while select:
     print("""
     1 Create a new stock document
@@ -198,15 +198,15 @@ def internal():
     else:
       print('Does not compute! Try again')
 
-\# This method provides services through the web service
-\# by taking a selection from the user and then executing 
-\# the chosen module
+# This method provides services through the web service
+# by taking a selection from the user and then executing 
+# the chosen module
 
 def webService():
   
   select = True
   print('Welcome to internal services. \nPlease choose from the following:')
-  \#let user chose from different internal services
+  #let user chose from different internal services
   while select:
     print("""
     1 Create a new stock document
