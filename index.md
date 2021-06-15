@@ -297,7 +297,7 @@ My plan for database enhancement is to utilize more advanced administrative meth
 * ## Developing Solutions
   * I met the planned objectives for adding to the complexity of the artifact by creating modules whose algorithms allow for field deletion, internal document retrieval and menu execution. The artifact now has web-service and internal modules that let a user delete a field (a key and value) in a document by having the user specify a ticker for querying and a key for deletion using MongoDB’s “$unset” and “update_one”.  The artifact now has an internal module that implements a simple “read” algorithm which queries and presents documents to the user. Finally, the artifact now has a menu which utilizes “while” loops to present the user with choices between internal or web-based services (or to exit), and then presents a list of options to choose from for each service. Internal modules are executed using import lines, while the API modules uses “os.system” program calls. If the user enters invalid input, they will get a “try again” response.
 
-  * ## Algorithm For Internal Document Retrieval:
+  * ## Algorithm for Internal Document Retrieval:
   * ```python
     import json
     from bson import json_util
@@ -355,7 +355,13 @@ My plan for database enhancement is to utilize more advanced administrative meth
 
     read_main()
     ```
-  * ## Algorithm For Internal Field Deletion:
+   * Internal Document Functionality for a Query: 
+   * ![stocks_read, terminal, find doc](https://user-images.githubusercontent.com/73560858/122109109-016f1d80-cdeb-11eb-86a7-db911f958d20.png)
+    
+   * Internal Document Functionality for a Nonexistent Document:
+   * ![stocks_read, terminal, no doc found](https://user-images.githubusercontent.com/73560858/122109266-29f71780-cdeb-11eb-9e52-79359e63caf3.png)
+    
+  * ## Algorithm for Internal Field Deletion:
   * ```python
     import json
     from bson import json_util
@@ -428,7 +434,15 @@ My plan for database enhancement is to utilize more advanced administrative meth
 
     del_field_main()   
     ```
-
+   * Internal Field Deletion, File Removed:
+   * ![stocks_deleteField, terminal, field removed](https://user-images.githubusercontent.com/73560858/122109889-df29cf80-cdeb-11eb-9336-6353dd4af5a7.png)
+    
+   * Internal Field Deletion, File Already Removed:
+   * ![stocks_deleteField, terminal, field already removed](https://user-images.githubusercontent.com/73560858/122110040-126c5e80-cdec-11eb-8722-4e4a9ee87914.png)
+   
+   * Internal Field Deletion, File Not Found:
+   * ![stocks_deleteField, terminal, ticker not found](https://user-images.githubusercontent.com/73560858/122110184-3fb90c80-cdec-11eb-8534-969d013e449d.png)
+  
   * ## Algorithm For API Field Deletion:
   * ```python
     import json
@@ -453,7 +467,6 @@ My plan for database enhancement is to utilize more advanced administrative meth
         print("MongoDB returned error message", pm)
         abort(400, str(pm))
         return
-
 
     # This method takes the ticker from the CURL, and checks its existance.  
     # If the ticker doesnt exist its reported and the program quits.
@@ -494,12 +507,15 @@ My plan for database enhancement is to utilize more advanced administrative meth
           print(dumps(myDeleteResult.raw_result))
           print("Document's field could not be found and may have already been removed.")
 
-
     if __name__ == '__main__':
         run(host='localhost', port=8080, debug=True) 
 
     ```
-
+   * API Field Deletion, Client-Side URLS:
+   * ![terminal, client, APIdeleteField, proof of KM field, 2 removal curls, 1 not found curl, cutdown](https://user-images.githubusercontent.com/73560858/122110926-1f3d8200-cded-11eb-8c9a-4d43fef41886.jpg)
+   * API Field Deletion; File Removed, File Already Removed, File Not Found:
+   * ![terminal, server, APIdeletefield, field removed, field already removed, field not found](https://user-images.githubusercontent.com/73560858/122110819-f9b07880-cdec-11eb-83b1-76ffb026aee9.png)
+   
   * ## Algorithm For The Menu:
   * ```python
     import os
@@ -638,7 +654,12 @@ My plan for database enhancement is to utilize more advanced administrative meth
 
     main_menu()
     ```
-
+   * Menu Initiation, Internal Menu Selection, and Exiting:
+   * ![initial menu, internal selection, item selection2](https://user-images.githubusercontent.com/73560858/122112450-dab2e600-cdee-11eb-9c90-1fe75e5a7e4d.png)
+   
+   * Menu Initiation, Web-Service Menu Selection, and Exiting:
+   * ![menu, web service selection and exiting](https://user-images.githubusercontent.com/73560858/122112685-19e13700-cdef-11eb-912f-c18b42c79341.png)
+   
 * ## Reflecting on the Process
   * The read module was simple because I had done this sort of things many times before. The module that deletes fields was a new challenge. It helped to study my "delete" and "update" module’s code. Browsing through what “delete_one” can do in the online MongoDB documentation, I saw that this only applied to whole objects like documents. This reassured me that what I wanted to do was modify the document using “update_one”. I refreshed myself on MongoDB’s “$set” which resides in my update module. It updates existing keys or creates new ones. Realizing that I want the opposite of this, I began browsing through my MongoDB book and rediscovered “$unset” which does the opposite of “$set”. The end-product is a marriage between my “delete” and “update” module.
 
