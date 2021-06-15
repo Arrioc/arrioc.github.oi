@@ -253,20 +253,16 @@ My plan for database enhancement is to utilize more advanced administrative meth
         #pass query and update to update function
         myUpdateResult = update_document(myQuery, newUpdate)
 
-        #if query exists & was modified
+        #if file was modified
         if (myUpdateResult.modified_count == 1):
-          #print raw info & update confirmation
+          #print raw result & update result
           print(dumps(myUpdateResult.raw_result))
           print("Document updated!")
-        #if query exists & was not modified  
-        elif (myUpdateResult.modified_count == 0):
-          #print raw info & info message
-          print(dumps(myUpdateResult.raw_result))
-          print("File has already been modified.")
+        #if file was not modified  
         else:
-          #print raw info & return error message
+          #print raw result & update result
           print(dumps(myUpdateResult.raw_result))
-          print("Document not found.")
+          print("File was not modified. The modification already exists.")
 
     if __name__ == '__main__':
         run(host='localhost', port=8080, debug=True)  
