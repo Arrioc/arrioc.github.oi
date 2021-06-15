@@ -685,7 +685,7 @@ My plan for database enhancement is to utilize more advanced administrative meth
   * Profile Level:
   * ![Profile level](https://user-images.githubusercontent.com/73560858/122131646-7b150480-ce07-11eb-87b9-b970dd7c3e0f.png)
   
-  * Discovery of Unused Index:
+  * Discovery of Unused Index. Note "PlanSummary":
   * ![Studio 3T Discovery](https://user-images.githubusercontent.com/73560858/122131695-8f590180-ce07-11eb-82eb-c0b5dbb3b96b.png)
   
   * Single Index Comparison. Note the "cursor" and "millis" (milliseconds):
