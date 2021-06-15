@@ -442,6 +442,9 @@ My plan for database enhancement is to utilize more advanced administrative meth
    
    * Internal Field Deletion, File Not Found:
    * ![stocks_deleteField, terminal, ticker not found](https://user-images.githubusercontent.com/73560858/122110184-3fb90c80-cdec-11eb-8534-969d013e449d.png)
+ 
+   * Internal Field Deletion, Database Before & After:
+   * ![internap del field database proof2](https://user-images.githubusercontent.com/73560858/122120463-74cb5c00-cdf8-11eb-9bac-4fd6dfe228b4.png)
   
   * ## Algorithm For API Field Deletion:
   * ```python
