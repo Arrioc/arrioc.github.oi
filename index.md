@@ -37,8 +37,9 @@ My plan for database enhancement is to utilize more advanced administrative meth
 * ## Developing Solutions
   * I met the planned objectives for creating more readable output, more user-friendly input, and a well-rounded update module for the API which helps to deliver better value. The artifact now has improved readability by integrating JSON code into specific inputs and outputs, for any module that outputs data to the user. The artifact now has friendlier user input capability, by removing code that required the user to preformat their own inputs and injecting code that preformats the inputs for them using the JSON and Pymongo language. This allowed me to remove "bad formatting" error catch blocks. The API update module now better reflects the industry specific goal for update functionality by allowing the user to update any field in a specified document (not just the “volumes” field), or insert a new one, using the simple but effective solution of adding a variable to the CURL which is extracted and queried. I also added needed annotation comments to every module and fixed a bug for the API modules that would reprint the last response posted in the terminal as one exits. 
 
-  * ## Better input example: 
-```python
+  * ## Better input example:
+ 
+  * ```python
 import json
 from bson import json_util
 from pymongo import MongoClient, errors
@@ -129,7 +130,7 @@ modify_main()
    * ![internal update, after](https://user-images.githubusercontent.com/73560858/121097482-09630800-c7c2-11eb-936e-2f46bb8b08f4.png)
 
   * ## Better readability example: 
-```python
+  * ```python
 import json
 from bson import json_util
 from pymongo import MongoClient, errors
@@ -197,7 +198,7 @@ if __name__ == '__main__':
    * ![terminal, server, APIindustryReport, fixed output- beautified](https://user-images.githubusercontent.com/73560858/121100215-59909900-c7c7-11eb-9e8b-4d0f4baf119b.png)
   
   * ## Better API update example:
-```python
+  * ```python
 import json
 from bson import json_util
 from bson.json_util import dumps
@@ -462,4 +463,4 @@ def webService():
 
 main_menu()
 ```
-#
+
