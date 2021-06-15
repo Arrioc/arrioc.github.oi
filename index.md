@@ -511,8 +511,10 @@ My plan for database enhancement is to utilize more advanced administrative meth
         run(host='localhost', port=8080, debug=True) 
 
     ```
+    
    * API Field Deletion, Client-Side URLS:
    * ![terminal, client, APIdeleteField, proof of KM field, 2 removal curls, 1 not found curl, cutdown](https://user-images.githubusercontent.com/73560858/122110926-1f3d8200-cded-11eb-8c9a-4d43fef41886.jpg)
+   
    * API Field Deletion; File Removed, File Already Removed, File Not Found:
    * ![terminal, server, APIdeletefield, field removed, field already removed, field not found](https://user-images.githubusercontent.com/73560858/122110819-f9b07880-cdec-11eb-83b1-76ffb026aee9.png)
    
@@ -654,6 +656,7 @@ My plan for database enhancement is to utilize more advanced administrative meth
 
     main_menu()
     ```
+    
    * Menu Initiation, Internal Menu Selection, and Exiting:
    * ![initial menu, internal selection, item selection2](https://user-images.githubusercontent.com/73560858/122112450-dab2e600-cdee-11eb-9c90-1fe75e5a7e4d.png)
    
