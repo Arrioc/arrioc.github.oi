@@ -689,11 +689,15 @@ My plan for database enhancement is to utilize more advanced administrative meth
 
   * I learned about a tool I could use to help me profile called IntelliShell by Studio 3T. Installing and correctly emulating my database was a bit challenging and a time-risk. I downloaded a trial of Studio 3T and used tutorials and guides to set it up. Assuring that I had mongo 2.6.12 working in Studio 3T, I configured the local connection and path to my database directory. I also needed to emulate the real database by applying my indexes. 
 
-  * (PIC)
+  * ![Figure 1](https://user-images.githubusercontent.com/73560858/122121707-f1126f00-cdf9-11eb-97f9-baca29e8e0f1.png)
+  * ###### Figure 1: emulating my database through its version and my indexes using Studio 3T.
+  
   * Using a Studio 3T guide, I learned how to use profiling by applying profile queries, but first I needed to execute my module’s queries. I wrote all my queries and aggregations in MongoDB shell-style commands, first testing them in my original project for accuracy and then running them in IntelliShell. I did this because once the profiler is on, one can confuse oneself with bad entries that were logged. The profiler logged my entries, and then I ran profile-based queries given by the guide to investigate each query and aggregation. I honestly did not change as much as I wanted to in fine-tuning reads and writes because almost all my indexes proved to be speeding up reads and there were no needed indexes that I missed. (Factor, 2020)
 
   * One feature of IntelliShell that I think is exceptional is that one can see the time an aggregation takes. I conducted research in many places, and most claimed that one cannot accurately time aggregations through a Mongo shell in version 2.6.12 (Stack Exchange Inc, 2012). I felt the milliseconds given were very consistent with real-time results when comparing queries.
-  * (PIC) 
+ 
+  * ![Figure 2](https://user-images.githubusercontent.com/73560858/122122006-451d5380-cdfa-11eb-9022-69884cfae35d.png)
+  * ###### Figure 2: An example of a profiling command showing 16ms on the aggregation “APIindustryReport” using Studio 3T.
 
   * **References**
    * ###### Chodorow, K. (2013). Mongo DB: The definitive guide (2nd ed.). O’Reilly Media, Inc. https://www.oreilly.com/library/view/mongodb-the-definitive/9781449344795/
