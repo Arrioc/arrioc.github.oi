@@ -682,7 +682,20 @@ My plan for database enhancement is to utilize more advanced administrative meth
 * ## Developing Solutions
   * I met the planned objectives of enhancing the artifact’s database by applying more advanced administrative methods to improve the efficiency of read and write speeds. All the database’s queries and aggregations have been investigated by using intensive profiling on the database. Profiling is an admin command that one can turn on to log more information about operations carried out (Chodorow, 2013, p. 339). The higher the level of profiling, the more information that is recorded. I set the profile level to its highest and I set the profiler to catch any query taking longer than ten milliseconds (ms). I also wanted to know which index each query/aggregation was using (if any). I performed profile queries to gather information. I discovered that my compound index was not being used by the query it was intended for; it used a single-field index instead. I rewrote the compound index and tested it using profiling and discovered it was no faster than my single-field index at 0ms. I decided to remove the compound index, and thereby improved write speed. 
 
-   * Profiling Settings:
+  * Profile Level:
+  * ![Profile level](https://user-images.githubusercontent.com/73560858/122131646-7b150480-ce07-11eb-87b9-b970dd7c3e0f.png)
+  
+  * Discovery of Unused Index:
+  * ![Studio 3T Discovery](https://user-images.githubusercontent.com/73560858/122131695-8f590180-ce07-11eb-82eb-c0b5dbb3b96b.png)
+  
+  * Single Index Comparison. Note the "cursor" and "millis" (milliseconds):
+  * ![stocks_read2, industry index, explain](https://user-images.githubusercontent.com/73560858/122131865-d515ca00-ce07-11eb-844c-3c5b731deac3.png)
+
+  * Compound Index Comparison. Note the "cursor" and "millis" (milliseconds):
+  * ![stocks_read2 compound index, explain](https://user-images.githubusercontent.com/73560858/122131779-b1528400-ce07-11eb-844c-12eba93ef711.png)
+  
+  * Index Removal, Before and After:
+  * ![before and after index removal2](https://user-images.githubusercontent.com/73560858/122132372-b6fc9980-ce08-11eb-8fa2-d3ea4b57502d.jpg)
 
   * After finishing with query inspection and improvement, I attempted to see if I could add a database authentication feature to meet outcome coverage. I added an “admin” account to the admin database, and then added a user with and without write access to the “market” database. In an attempt to verify that users could only carry out their assigned roles, I found that they had more roles than they should. I believe this is because all accounts are on a local directory, and thus, were all superusers. I started to have disconnection problems in Codio when logging back into “admin” after testing the users accounts. Codio crashed and although I got it back up by clearing cookies and cache later on, the problem persisted until I deleted all the accounts. I decided not to go that route for now, and instead fix a flaw which I mentioned in my code review that reprints the last response posted in the terminal as one exits the API modules (“Ctrl-C”). I would like to add the bug fix to my outcomes for design enhancement, if possible.
 
