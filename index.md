@@ -686,7 +686,7 @@ My plan for database enhancement is to utilize more advanced administrative meth
   * ![Profile level](https://user-images.githubusercontent.com/73560858/122131646-7b150480-ce07-11eb-87b9-b970dd7c3e0f.png)
   
   * Discovery of Unused Index. Note "PlanSummary":
-  * ![Studio 3T Discovery 3](https://user-images.githubusercontent.com/73560858/122134263-3f306e00-ce0c-11eb-9a79-8f9d922ec82c.png)
+  * ![Studio 3T Discovery 4](https://user-images.githubusercontent.com/73560858/122134800-5459cc80-ce0d-11eb-8c50-eeae05d023ba.png)
   
   * Single Index Comparison. Note the "cursor" and "millis" (milliseconds):
   * ![stocks_read2, industry index, explain](https://user-images.githubusercontent.com/73560858/122131865-d515ca00-ce07-11eb-844c-3c5b731deac3.png)
