@@ -122,9 +122,11 @@ My plan for database enhancement is to utilize more advanced administrative meth
     ```
     
    * User Input Before Enhancement:
+   
    * ![internal update before3](https://user-images.githubusercontent.com/73560858/121097947-dcfbbb80-c7c2-11eb-9189-6c3ce43830d9.png)
  
    * User Input After Enhancement:
+   
    * ![internal update, after](https://user-images.githubusercontent.com/73560858/121097482-09630800-c7c2-11eb-936e-2f46bb8b08f4.png)
 
   * ## Better Readability Code: 
