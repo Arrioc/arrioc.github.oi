@@ -1,4 +1,4 @@
-# Professional Self-Assessment
+# __Professional Self-Assessment__
 The following self-assessment contains the many skills and abilities accumulated throughout my computer science program. They consist of team collaborations, stakeholder communications, data structures, algorithms, databases, software engineering, and security, and have helped to develop my strengths, shape my professional goals and values, and prepare me for a career in computer science. I expect to start as a developer, but I aspire to be an engineer.
 
 ## Team Collaboration
@@ -79,12 +79,12 @@ The experiences gained from engineering and database classes, combined with othe
 I have learned quite a bit about preemptive security measures I can take, but I am no cyber security specialist. Instead of opting for a security-based class, I decided that full stack development could heighten my understanding. Oddly enough, this class taught me some important security fundamentals. Using the MongoDB, Express, Angular and Node.js (MEAN) stack, I learned how to authenticate and authorize users in my program. I used TypeScript and JavaScript Object Notation (JSON) to do this. The class also used Hypertext Markup Language (HTML), Cascading Style Sheets (CSS), Mongoose (for schemas) and the third-party software Seedgoose for seeding data. Most important is how to secure the environment and hide sensitive information. Extreme caution with the environment variable was stressed. I learned to secure my program by stashing the environment variable (.env and .env.test) in the “.gitignore” file.
 
 
-# Introduction: This ePortfolio features a program iteration with more to come! 
+# __Introduction: This ePortfolio features a program iteration with more to come!__ 
 The following artifact, created in my CS 340 Client-Server course, will serve to inform the portfolio by demonstrating a wide range of my abilities in software design, algorithms, data structures, and databases. I will delve into the specific aspects of this creation in a code review, and then enhance the artifact before your very eyes. In doing the code review, I will explain where, why, and how I plan to make changes. I will then execute these changes, providing code updates and explanations, and reflecting on the process as I go.
 
 ## The following is a code review...
 that explains the chosen project and its code, analyzes the code for flaws, and decides on a plan for enhancement. 
-The video is 41m. I'd like to edit this down soon. It's a bit of a rough second draft. 😅
+The video is 41m. I'd like to edit this down to twenty minutes as soon as I can.
 
 
 Watch [Arrioc's Video!](https://www.youtube.com/watch?v=wDXqfWe2RQw) 
@@ -793,13 +793,19 @@ My plan for database enhancement is to utilize more advanced administrative meth
   * ###### Figure 2: An example of a profiling command showing 16ms on the aggregation “APIindustryReport” using Studio 3T.
 
   * **References**
+   * ###### ACM Code Task Force. (2018). ACM code of ethics and professional conduct. Acm.org. https://www.acm.org/code-of-ethics
+
    * ###### Chodorow, K. (2013). Mongo DB: The definitive guide (2nd ed.). O’Reilly Media, Inc. https://www.oreilly.com/library/view/mongodb-the-definitive/9781449344795/
+   
+   * ###### Cobb, C. (2015). The project manager’s guide to mastering Agile. John Wiley & Sons Inc. 
 
    * ###### Downey, A. (2015). Think python: How to think like a computer scientist (2nd ed.). Green Tea Press. https://greenteapress.com/thinkpython2/html/
 
    * ###### Educative, Inc. (2021). What is the difference between json.loads() and json.dumps()? https://www.educative.io/edpresso/what-is-the-difference-between-jsonloads-and-jsondumps
 
    * ###### Factor, P. (2020, October 6). How to use the MongoDB profiler and explain() to find slow queries. Studio3T. Retrieved June 3, 2021, from https://studio3t.com/knowledge-base/articles/mongodb-query-performance/
+   
+   * ###### Jensen, R. (2017). The internet of dangerous things: A complex dialogue worth advancing. Biomed Instrum Technology, 51(4), 352. https://doi.org/10.2345/0899-8205-51.4.352
 
    * ###### Sriparasa, S., & D’mello, B. (2018). JavaScript and JSON essentials : Build light weight, scalable, and faster web applications with the power of JSON (2nd ed.). Packt Publishing. https://search-ebscohost-com.ezproxy.snhu.edu/login.aspx?direct=true&db=nlebk&AN=1801025&site=eds-live&scope=site
 
