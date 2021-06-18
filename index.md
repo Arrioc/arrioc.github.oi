@@ -9,7 +9,7 @@
   * ![code review](https://user-images.githubusercontent.com/73560858/122466251-1385c300-cf87-11eb-917b-b8d624004de6.jpg)
   * <p align="center">
     Figure 1: Communicating with classmates on GitHub.
-  * </p>
+    </p>
 
 * ## Communicating to Stakeholders
   * During my education, I often assumed a specific role with the end-goal of communicating my project decisions to stakeholders. This required that I communicate clearly and concisely, often in terms nontechnical clients could understand. If something was very technical, I broke it down into easily digestible parts. I practiced this in courses such as Full Stack Development I & II, Introduction to SQL, Oracle SQL Fundamentals, Fundamentals of Datamining, Computer Platform Technologies, Business Systems Analysis and Design, and more. Often the communication goal was to explain how I met all the requirements and to justify and defend my design choices.
@@ -18,7 +18,7 @@
   * My CS 200 Computer Science’s Role in Industry class is where I learned the basics of solving problems with Python by using the logical structures of flowcharts and pseudocode, which was critical to my understanding of algorithms and data structures. In my IT 140 Introduction to scripting class, I learned the basics of scripting in Python, practicing the use of algorithm and data structures for storing and manipulating data to solve computational problems. My IT 145 Foundation in Application Development course focused on object orientation as well, only this time in Java. The following are a few examples of my pseudocode and flowcharts.
 
 
-  * ## Pseudocode for food receipt: 
+ * ## Pseudocode for food receipt: 
   * ```
 READ given item name
 IF item name given THEN 
