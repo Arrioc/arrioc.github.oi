@@ -101,6 +101,8 @@ I have learned quite a bit about preemptive security measures I can take, but I 
 # __Artifact Enhancement Introduction__ 
 The following artifact, created in my CS 340 Client-Server course, will serve to inform the portfolio by demonstrating a wide range of my abilities in software design, algorithms, data structures, and databases. I will delve into the specific aspects of this creation in a code review, and then perform enhancements on the artifact. In doing the code review, I will explain where, why, and how I plan to make changes. I will then execute these changes, providing code updates and explanations, and reflecting on the process as I go.
 
+[Artifact Introduction](https://arrioc.github.io/Introduction/)
+
 ## The following is a code review...
 that explains the chosen project and its code, analyzes the code for flaws, and decides on a plan for enhancement. 
 The video is 41m. I'd like to edit this down to twenty minutes as soon as I can.
