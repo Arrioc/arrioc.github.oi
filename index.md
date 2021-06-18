@@ -6,10 +6,10 @@
 
   * In my course on collaboration and team projects (CS 310), I learned of distributed and centralized version control systems (VCS) and their benefits to the development team. Using the distributed system and Git, we worked together to create projects. We created repositories, cloned code, checked out branches and merged or rebased code. Many of my later classes also used Git commands and GitHub or Bitbucket hosting, giving me more experience with git push, commit, clone, add, restore, and branch check outs. Prior to a code review, I would check my code for errors, perform unit and run tests, and check run performance. In code reviews, we provided feedback to each other. We looked for bugs and conformance to requirements, while suggesting improvements. An important concept of collaboration, and one that holds true to my values and everyday life, is to treat everyone with respect and dignity.
  
- * ![code review](https://user-images.githubusercontent.com/73560858/122466251-1385c300-cf87-11eb-917b-b8d624004de6.jpg)
- * <p align="center">
+  * ![code review](https://user-images.githubusercontent.com/73560858/122466251-1385c300-cf87-11eb-917b-b8d624004de6.jpg)
+  * <p align="center">
     Figure 1: Communicating with classmates on GitHub.
-   </p>
+  * </p>
 
 * ## Communicating to Stakeholders
   * During my education, I often assumed a specific role with the end-goal of communicating my project decisions to stakeholders. This required that I communicate clearly and concisely, often in terms nontechnical clients could understand. If something was very technical, I broke it down into easily digestible parts. I practiced this in courses such as Full Stack Development I & II, Introduction to SQL, Oracle SQL Fundamentals, Fundamentals of Datamining, Computer Platform Technologies, Business Systems Analysis and Design, and more. Often the communication goal was to explain how I met all the requirements and to justify and defend my design choices.
