@@ -47,10 +47,10 @@ WRITE the calculation of the sum of all subtotals
 CALCULATE tax multiplied by the sum of all subtotals
 WRITE the grand total: tax multiplied by the sum of all subtotals
 ```
-![flowchart for recipe2](https://user-images.githubusercontent.com/73560858/122466583-7e36fe80-cf87-11eb-9877-c994f036b20e.png)
+![flowchart_receipt](https://user-images.githubusercontent.com/73560858/122621556-e3f8b880-d063-11eb-88ce-1c61849f93d6.png)
 ###### Figure 2: A Basic Flow Chart for a Food Receipt (uses branches).
 
-![Final milestone flowchart2 cut](https://user-images.githubusercontent.com/73560858/122466705-a6bef880-cf87-11eb-88b1-3a9398a6cf92.png)
+![Final milestone flowchart2 cut](https://user-images.githubusercontent.com/73560858/122621599-fd9a0000-d063-11eb-8786-c28ddaf8a011.png)
 ###### Figure 3: A flow chart for performing calculations on a list of people’s weights (uses two loops).
 
 * MAT 230 Discrete Mathematics and MAT 350 Applied Linear Algebra contributed to my understanding of algorithms and data structures. Discrete math focused on logical expressions, truth tables, applied modular arithmetic, combinations, and permutations using graph algorithms and more. Applied linear algebra focused on linear equations, determinants, matrices, and eigenvectors, as well as vector, null and sub spaces, to name a few.
