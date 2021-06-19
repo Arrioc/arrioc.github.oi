@@ -103,10 +103,9 @@ WRITE the grand total: tax multiplied by the sum of all subtotals
 
 * See Arrioc's [Artifact Introduction](https://arrioc.github.io/Introduction/)
 
+&nbsp;
+&nbsp;
 
- 
- 
- 
 **References**
 * ###### ACM Code Task Force. (2018). ACM code of ethics and professional conduct. Acm.org. https://www.acm.org/code-of-ethics
    
