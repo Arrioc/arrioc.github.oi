@@ -101,7 +101,7 @@ WRITE the grand total: tax multiplied by the sum of all subtotals
 # Introduction to a Demonstration of my Skills
 * The following artifact, created in my CS 340 Client-Server course, will serve to inform the portfolio by demonstrating a wide range of my abilities in software design, algorithms, data structures, and databases. I will delve into the specific aspects of this creation in a code review, and then perform enhancements on the artifact. In doing the code review, I will explain where, why, and how I plan to make changes. I will then execute these changes, providing code updates and explanations, and reflecting on the process as I go.
 
-[Artifact Introduction](https://arrioc.github.io/Introduction/)
+* See Arrioc's [Artifact Introduction](https://arrioc.github.io/Introduction/)
 
 
 
@@ -109,25 +109,8 @@ WRITE the grand total: tax multiplied by the sum of all subtotals
 
   * **References**
    * ###### ACM Code Task Force. (2018). ACM code of ethics and professional conduct. Acm.org. https://www.acm.org/code-of-ethics
-
-   * ###### Chodorow, K. (2013). Mongo DB: The definitive guide (2nd ed.). O’Reilly Media, Inc. https://www.oreilly.com/library/view/mongodb-the-definitive/9781449344795/
    
    * ###### Cobb, C. (2015). The project manager’s guide to mastering Agile. John Wiley & Sons Inc. 
-
-   * ###### Downey, A. (2015). Think python: How to think like a computer scientist (2nd ed.). Green Tea Press. https://greenteapress.com/thinkpython2/html/
-
-   * ###### Educative, Inc. (2021). What is the difference between json.loads() and json.dumps()? https://www.educative.io/edpresso/what-is-the-difference-between-jsonloads-and-jsondumps
-
-   * ###### Factor, P. (2020, October 6). How to use the MongoDB profiler and explain() to find slow queries. Studio3T. Retrieved June 3, 2021, from https://studio3t.com/knowledge-base/articles/mongodb-query-performance/
    
    * ###### Jensen, R. (2017). The internet of dangerous things: A complex dialogue worth advancing. Biomed Instrum Technology, 51(4), 352. https://doi.org/10.2345/0899-8205-51.4.352
-
-   * ###### Sriparasa, S., & D’mello, B. (2018). JavaScript and JSON essentials : Build light weight, scalable, and faster web applications with the power of JSON (2nd ed.). Packt Publishing. https://search-ebscohost-com.ezproxy.snhu.edu/login.aspx?direct=true&db=nlebk&AN=1801025&site=eds-live&scope=site
-
-   * ###### Stack Exchange Inc. (2012, December 12). How can I see the execution time for the aggregate command? StackOverflow. Retrieved June 3, 2021, from https://stackoverflow.com/questions/14021605/mongodb-how-can-i-see-the-execution-time-for-the-aggregate-command
-
-   * ###### Stack Exchange Inc. (2015, December 28). Pretty printing of output in Pymongo. StackOverflow. Retrieved May 22, 2021, from https://stackoverflow.com/questions/34493535/pretty-printing-of-output-in-pymongo
-
-   * ###### Vivek, G. (2013, Dec 30). Python execute unix: Linux command examples. NixCraft. https://www.cyberciti.biz/faq/python-execute-unix-linux-command-examples/?__cf_chl_captcha_tk__=9bb51b5678d4ae41b922f8e73efc57d23d3559d6-1622059002-0-AcnFbvo4ZSPblHayQIbaQwyGXmPaaL2hezAfnWWm1oyv9ltGtxiXbF5AhKuRswuvjVBfALMQu4h4WOkB2Gzj3PVNgE0tWWENDj254bVYgM2k2gp6_NhPLulaHF6-U1bJb9GLVIcuK54JQlxcgo0TbKwApyZYToLtLN26q0UtOtsWIkufUP9j0VgHckL3ZuWM-TpmyVByMqZeWiD9Nbu8kNQxWViCJiRQ7LbRzGt9zr1D9D3HcMU-RFP3G-ywfC16dspUH_H5CQqUuyHYOzvhtJsd4h5uAQqJIQQsD5sNQekdioAlTzJexg_IbhygV3VDykNa73J5SWNEB1gquBxzYXBUDQsHOYRiBEuzfW1YhcUlmZ28yzKeFjLy4p3zHorQFmJmNndRj-5BoRulc_znV5Gj6-GiJuulchUfQUpkBy9FbVrk1yanKAatmhGu5YuVmbwHSoFYzMhc6HMnde3GH7UGPVwFF2Xg_SwQzhlviYW2eZITo7x6lSsu_iiL1gcTICEyQzKhdxJuwNFJjRotoO0LgDIiZONunnujhus_zkxRBHhN7jPP-qkGSvh_izK7khrtHw4oaS0Mxbc2NjT9THKk0iOpuXhnnJGGTL0hkIwB5ciqJlIAvmgiqvtGK7Ut-fjR0nydRM6DQl3e68cTFBbjNgXDSJDu64Kth7sjUgedo9bHIz3XW23_3b78xv5kRmyk53b2g5u1LLHBFmSDLC_0QhOWX6Zp2h3W9AbHT93l
-
 
