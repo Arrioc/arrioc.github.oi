@@ -76,7 +76,7 @@ WRITE the grand total: tax multiplied by the sum of all subtotals
 
 ![3DsnhuPyr](https://user-images.githubusercontent.com/73560858/122467224-45e3f000-cf88-11eb-88da-3a4d344e5c40.png)
 <p align="center">
-    Figure 6: Three Dimensional OpenGL Pyramid with lighting effects and without textures.
+    Figure 6: Three Dimensional OpenGL tetrahedron with lighting, lighting effects and texture.
 </p>
 
 * These courses focused on the “best practices” for applying each method, concept, or tool, helping to create a strong foundation for my reasoning, and allowing me to produce more professional solutions to problems which I can support and justify. Critically analyzing technology is a must, as it allows one to protect against the misuse and bias that affects the input and output of algorithms, creating fair, quality technologies that solve a problem without hurting anyone. The last thing I want to do is contribute to “the internet of dangerous things” (Jensen, 2017). I intend to act as a force that actively protects though continued learning and best practices.
