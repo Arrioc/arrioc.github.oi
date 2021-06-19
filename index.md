@@ -18,7 +18,6 @@ The following self-assessment contains the many skills and abilities accumulated
 * My CS 200 Computer Science’s Role in Industry class is where I learned the basics of solving problems with Python by using the logical structures of flowcharts and pseudocode, which was critical to my understanding of algorithms and data structures. In my IT 140 Introduction to scripting class, I learned the basics of scripting in Python, practicing the use of algorithm and data structures for storing and manipulating data to solve computational problems. My IT 145 Foundation in Application Development course focused on object orientation as well, only this time in Java. The following are a few examples of my pseudocode and flowcharts.
 
 
-## Pseudocode for food receipt: 
 ```
 READ given item name
 IF item name given THEN 
@@ -47,24 +46,38 @@ WRITE the calculation of the sum of all subtotals
 CALCULATE tax multiplied by the sum of all subtotals
 WRITE the grand total: tax multiplied by the sum of all subtotals
 ```
+<p align="center">
+    Pseudocode for a food receipt program: 
+</p>
+
 ![flowchart_receipt](https://user-images.githubusercontent.com/73560858/122621556-e3f8b880-d063-11eb-88ce-1c61849f93d6.png)
-###### Figure 2: A Basic Flow Chart for a Food Receipt (uses branches).
+<p align="center">
+    Figure 2: A Basic Flow Chart for a Food Receipt (uses branches).
+</p>
 
 ![Final milestone flowchart2 cut](https://user-images.githubusercontent.com/73560858/122621599-fd9a0000-d063-11eb-8786-c28ddaf8a011.png)
-###### Figure 3: A flow chart for performing calculations on a list of people’s weights (uses two loops).
+<p align="center">
+    Figure 3: A flow chart for performing calculations on a list of people’s weights (uses two loops).
+</p>
 
 * MAT 230 Discrete Mathematics and MAT 350 Applied Linear Algebra contributed to my understanding of algorithms and data structures. Discrete math focused on logical expressions, truth tables, applied modular arithmetic, combinations, and permutations using graph algorithms and more. Applied linear algebra focused on linear equations, determinants, matrices, and eigenvectors, as well as vector, null and sub spaces, to name a few.
 	
 * All these skills culminated in my CS 260 Data Structures and Algorithms class where I practiced applying data structures using the C++ language. I organized data and implemented technically sound algorithms, both basic and foundational, to develop effective computer programs and solve processing problems. My CS 330 Graphics and Visualization course also made use of data structures and algorithms quite regularly. In this class, I did work with C++, MinGW, OpenGL, and LAMP, as well as GLEW, Freeglut, GLM, and SOIL2 Dynamic Link Libraries (DLL’s) to create 3D objects using a very large algorithm. These come complete with textures and algorithms for keyboard controls that pan, zoom, and orbit the view of the object. I also created a small animation of a textured object rotating at an angle.
 
 ![2Dstrip](https://user-images.githubusercontent.com/73560858/122467066-0b7a5300-cf88-11eb-92f8-1fb626872c1e.png)
-###### Figure 4: Two Dimensional OpenGL Shapes.
+<p align="center">
+    Figure 4: Two Dimensional OpenGL Shapes.
+</p>
  
 ![3Dimages](https://user-images.githubusercontent.com/73560858/122467155-2b117b80-cf88-11eb-920b-e2c655e7e732.png)
-###### Figure 5: Three Dimensional OpenGL Shapes with and without lighting effects and textures.
+<p align="center">
+    Figure 5: Three Dimensional OpenGL Shapes with and without lighting effects and textures.
+</p>
 
 ![3DsnhuPyr](https://user-images.githubusercontent.com/73560858/122467224-45e3f000-cf88-11eb-88da-3a4d344e5c40.png)
-###### Figure 6: Three Dimensional OpenGL Pyramid with lighting effects and without textures.
+<p align="center">
+    Figure 6: Three Dimensional OpenGL Pyramid with lighting effects and without textures.
+</p>
 
 * These courses focused on the “best practices” for applying each method, concept, or tool, helping to create a strong foundation for my reasoning, and allowing me to produce more professional solutions to problems which I can support and justify. Critically analyzing technology is a must, as it allows one to protect against the misuse and bias that affects the input and output of algorithms, creating fair, quality technologies that solve a problem without hurting anyone. The last thing I want to do is contribute to “the internet of dangerous things” (Jensen, 2017). I intend to act as a force that actively protects though continued learning and best practices.
 
@@ -73,20 +86,31 @@ WRITE the grand total: tax multiplied by the sum of all subtotals
 	
 * My IT 315 Object Analysis and Design class united my understanding of agile phases and responsibilities, engineering principles, and BSAD. The class focused on combining object-oriented techniques and methods. We used computer assisted engineering technology (CASE) for analyzing and designing software systems with a unified modeling language (UML) to create functional, structural, and behavioral models. I studied business requirements to make class responsibility collaboration (CRC) cards, as well as use-case, sequence, communications, class and behavioral-state machine diagrams.
  
-###### Figure 7: Student Information System (SIS) Use Case Diagram.
+
 ![Student Information System (SIS) Use Case - Milestone1 pic3](https://user-images.githubusercontent.com/73560858/122467321-5eeca100-cf88-11eb-87e0-3fd1acb62d5e.png)
+<p align="center">
+    Figure 7: Student Information System (SIS) Use Case Diagram.
+</p>
 
-###### Figure 8: Student Information System Sequence Diagram.
 ![Disc Sequence Diagram2](https://user-images.githubusercontent.com/73560858/122467415-7c216f80-cf88-11eb-85c5-b85dc112e6e2.png)
+<p align="center">
+    Figure 8: Student Information System Sequence Diagram.
+</p>
 
-###### Figure 9: Student Information System Communications Diagram.
 ![Final Project Milestone III Part 1 Communications Diagram1](https://user-images.githubusercontent.com/73560858/122467493-94918a00-cf88-11eb-8f6f-ae84420687c4.png)
+<p align="center">
+    Figure 9: Student Information System Communications Diagram.
+</p>
 
-###### Figure 10: Student Information System Class Diagram.
 ![Milestone 2 class diagram2](https://user-images.githubusercontent.com/73560858/122467794-f520c700-cf88-11eb-9264-e0be60f1b68f.png)
+<p align="center">
+    Figure 10: Student Information System Class Diagram.
+</p>
 
-###### Figure 11: Behavioral State Machine Diagram.
 ![behavioral state machine diagram 1](https://user-images.githubusercontent.com/73560858/122467997-2600fc00-cf89-11eb-90fc-2a29408ecc2f.png)
+<p align="center">
+    Figure 11: Behavioral State Machine Diagram.
+</p>
 
 * CS 320 Software Testing, Automation and Quality Assurance taught me how to test my creations by learning about requirement analysis, validation, verification, and quality management. In the class, I effectively learned how to uncover errors in software through evaluation using best practices in testing techniques and applying strategic unit tests.
 
