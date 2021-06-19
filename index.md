@@ -104,13 +104,13 @@ WRITE the grand total: tax multiplied by the sum of all subtotals
 * See Arrioc's [Artifact Introduction](https://arrioc.github.io/Introduction/)
 
 
-
-
-
-  * **References**
-   * ###### ACM Code Task Force. (2018). ACM code of ethics and professional conduct. Acm.org. https://www.acm.org/code-of-ethics
+ 
+ 
+ 
+**References**
+* ###### ACM Code Task Force. (2018). ACM code of ethics and professional conduct. Acm.org. https://www.acm.org/code-of-ethics
    
-   * ###### Cobb, C. (2015). The project manager’s guide to mastering Agile. John Wiley & Sons Inc. 
+* ###### Cobb, C. (2015). The project manager’s guide to mastering Agile. John Wiley & Sons Inc. 
    
-   * ###### Jensen, R. (2017). The internet of dangerous things: A complex dialogue worth advancing. Biomed Instrum Technology, 51(4), 352. https://doi.org/10.2345/0899-8205-51.4.352
+* ###### Jensen, R. (2017). The internet of dangerous things: A complex dialogue worth advancing. Biomed Instrum Technology, 51(4), 352. https://doi.org/10.2345/0899-8205-51.4.352
 
