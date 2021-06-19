@@ -11,6 +11,8 @@ The following self-assessment contains the many skills and abilities accumulated
     Figure 1: Communicating with classmates on GitHub.
 </p>
 
+&nbsp;
+
 ## Communicating to Stakeholders
 * During my education, I often assumed a specific role with the end-goal of communicating my project decisions to stakeholders. This required that I communicate clearly and concisely, often in terms nontechnical clients could understand. If something was very technical, I broke it down into easily digestible parts. I practiced this in courses such as Full Stack Development I & II, Introduction to SQL, Oracle SQL Fundamentals, Fundamentals of Datamining, Computer Platform Technologies, Business Systems Analysis and Design, and more. Often the communication goal was to explain how I met all the requirements and to justify and defend my design choices.
 
@@ -50,15 +52,21 @@ WRITE the grand total: tax multiplied by the sum of all subtotals
     Pseudocode for a food receipt program: 
 </p>
 
+&nbsp;
+
 ![flowchart_receipt](https://user-images.githubusercontent.com/73560858/122621556-e3f8b880-d063-11eb-88ce-1c61849f93d6.png)
 <p align="center">
     Figure 2: A Basic Flow Chart for a Food Receipt (uses branches).
 </p>
 
+&nbsp;
+
 ![Final milestone flowchart2 cut](https://user-images.githubusercontent.com/73560858/122621599-fd9a0000-d063-11eb-8786-c28ddaf8a011.png)
 <p align="center">
     Figure 3: A flow chart for performing calculations on a list of people’s weights (uses two loops).
 </p>
+
+&nbsp;
 
 * MAT 230 Discrete Mathematics and MAT 350 Applied Linear Algebra contributed to my understanding of algorithms and data structures. Discrete math focused on logical expressions, truth tables, applied modular arithmetic, combinations, and permutations using graph algorithms and more. Applied linear algebra focused on linear equations, determinants, matrices, and eigenvectors, as well as vector, null and sub spaces, to name a few.
 	
@@ -69,15 +77,21 @@ WRITE the grand total: tax multiplied by the sum of all subtotals
     Figure 4: Two Dimensional OpenGL Shapes.
 </p>
  
+&nbsp;
+
 ![3Dimages](https://user-images.githubusercontent.com/73560858/122467155-2b117b80-cf88-11eb-920b-e2c655e7e732.png)
 <p align="center">
     Figure 5: Three Dimensional OpenGL Shapes with and without lighting effects and textures.
 </p>
 
+&nbsp;
+
 ![3DsnhuPyr](https://user-images.githubusercontent.com/73560858/122467224-45e3f000-cf88-11eb-88da-3a4d344e5c40.png)
 <p align="center">
     Figure 6: Three Dimensional OpenGL tetrahedron with lighting, lighting effects and texture.
 </p>
+
+&nbsp;
 
 * These courses focused on the “best practices” for applying each method, concept, or tool, helping to create a strong foundation for my reasoning, and allowing me to produce more professional solutions to problems which I can support and justify. Critically analyzing technology is a must, as it allows one to protect against the misuse and bias that affects the input and output of algorithms, creating fair, quality technologies that solve a problem without hurting anyone. The last thing I want to do is contribute to “the internet of dangerous things” (Jensen, 2017). I intend to act as a force that actively protects though continued learning and best practices.
 
@@ -92,25 +106,35 @@ WRITE the grand total: tax multiplied by the sum of all subtotals
     Figure 7: Student Information System (SIS) Use Case Diagram.
 </p>
 
+&nbsp;
+
 ![Disc Sequence Diagram2](https://user-images.githubusercontent.com/73560858/122467415-7c216f80-cf88-11eb-85c5-b85dc112e6e2.png)
 <p align="center">
     Figure 8: Student Information System Sequence Diagram.
 </p>
+
+&nbsp;
 
 ![Final Project Milestone III Part 1 Communications Diagram1](https://user-images.githubusercontent.com/73560858/122467493-94918a00-cf88-11eb-8f6f-ae84420687c4.png)
 <p align="center">
     Figure 9: Student Information System Communications Diagram.
 </p>
 
+&nbsp;
+
 ![Milestone 2 class diagram2](https://user-images.githubusercontent.com/73560858/122467794-f520c700-cf88-11eb-9264-e0be60f1b68f.png)
 <p align="center">
     Figure 10: Student Information System Class Diagram.
 </p>
 
+&nbsp;
+
 ![behavioral state machine diagram 1](https://user-images.githubusercontent.com/73560858/122467997-2600fc00-cf89-11eb-90fc-2a29408ecc2f.png)
 <p align="center">
     Figure 11: Behavioral State Machine Diagram.
 </p>
+
+&nbsp;
 
 * CS 320 Software Testing, Automation and Quality Assurance taught me how to test my creations by learning about requirement analysis, validation, verification, and quality management. In the class, I effectively learned how to uncover errors in software through evaluation using best practices in testing techniques and applying strategic unit tests.
 
