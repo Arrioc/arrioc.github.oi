@@ -91,7 +91,7 @@ WRITE the grand total: tax multiplied by the sum of all subtotals
 
 ![3DsnhuPyr](https://user-images.githubusercontent.com/73560858/122467224-45e3f000-cf88-11eb-88da-3a4d344e5c40.png)
 <p align="center">
-    Figure 6: Three Dimensional OpenGL tetrahedron with lighting, lighting effects and texture.
+    Figure 6: Three Dimensional OpenGL pyramid with lighting, lighting effects and texture.
 </p>
 
 &nbsp;
