@@ -118,7 +118,7 @@ WRITE the grand total: tax multiplied by the sum of all subtotals
 
 &nbsp;
 
-![Final Project Milestone III Part 1 Communications Diagram1](https://user-images.githubusercontent.com/73560858/122467493-94918a00-cf88-11eb-8f6f-ae84420687c4.png)
+![Final Project Milestone III Part 1 Communications Diagram1](https://user-images.githubusercontent.com/73560858/123102818-705c0000-d403-11eb-928a-3ea40904ee71.jpg)
 <p align="center">
     Figure 9: Student Information System Communications Diagram.
 </p>
