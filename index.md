@@ -132,7 +132,7 @@ WRITE the grand total: tax multiplied by the sum of all subtotals
 
 &nbsp;
 
-![behavioral state machine diagram 1](https://user-images.githubusercontent.com/73560858/122467997-2600fc00-cf89-11eb-90fc-2a29408ecc2f.png)
+![behavioral state machine diagram 1](https://user-images.githubusercontent.com/73560858/123106527-aea6ee80-d406-11eb-9d17-bb893abb2432.jpg)
 <p align="center">
     Figure 11: Behavioral State Machine Diagram.
 </p>
