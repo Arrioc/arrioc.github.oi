@@ -1,12 +1,12 @@
+## Sections
+[Self-Assessment](https://arrioc.github.io/arrioc.github.oi/) | [Introduction](https://arrioc.github.io/Introduction/) | [Software Design & Engineering](https://arrioc.github.io/Software-Design/) | [Algorithms & Data Structures](https://arrioc.github.io/Algorithms-DataStructures/) | [Database](https://arrioc.github.io/Portfolio-Database/) | [Old Source Code](https://github.com/Arrioc/CS340_client-server) | [New Source Code](https://github.com/Arrioc/Enhanced-Artifact)
+
 <p align="center">
   <img width="407" height="316" src="https://user-images.githubusercontent.com/73560858/120911070-355f7b80-c652-11eb-96c7-309bdd3cd158.png">
 </p>
 <p align="center">
     ASCII Art by Jessica Kilbourne.
 </p>
-
-## Sections
-[Self-Assessment](https://arrioc.github.io/arrioc.github.oi/) | [Introduction](https://arrioc.github.io/Introduction/) | [Software Design & Engineering](https://arrioc.github.io/Software-Design/) | [Algorithms & Data Structures](https://arrioc.github.io/Algorithms-DataStructures/) | [Database](https://arrioc.github.io/Portfolio-Database/) | [Old Source Code](https://github.com/Arrioc/CS340_client-server) | [New Source Code](https://github.com/Arrioc/Enhanced-Artifact)
 
 # __Professional Self-Assessment__
 The following self-assessment contains the many skills and abilities accumulated throughout my computer science program. They consist of team collaborations, stakeholder communications, data structures, algorithms, databases, software engineering, and security, and have helped to develop my strengths, shape my professional goals and values, and prepare me for a career in computer science. I expect to start as a developer, but I aspire to be an engineer.
