@@ -1,3 +1,8 @@
+<p align="center">
+    ![myCatASCII](https://user-images.githubusercontent.com/73560858/120911070-355f7b80-c652-11eb-96c7-309bdd3cd158.png)
+    ###### ASCII Art by Jessica Kilbourne.
+</p>
+
 ## Sections
 [Self-Assessment](https://arrioc.github.io/arrioc.github.oi/) | [Introduction](https://arrioc.github.io/Introduction/) | [Software Design & Engineering](https://arrioc.github.io/Software-Design/) | [Algorithms & Data Structures](https://arrioc.github.io/Algorithms-DataStructures/) | [Database](https://arrioc.github.io/Portfolio-Database/) | [Old Source Code](https://github.com/Arrioc/CS340_client-server) | [New Source Code](https://github.com/Arrioc/Enhanced-Artifact)
 
