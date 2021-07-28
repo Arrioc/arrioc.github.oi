@@ -172,4 +172,4 @@ WRITE the grand total: tax multiplied by the sum of all subtotals
    
  * ###### Jensen, R. (2017). The internet of dangerous things: A complex dialogue worth advancing. _Biomed Instrum Technology, 51_(4), 352. https://doi.org/10.2345/0899-8205-51.4.352
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jessica-kilbourne" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jessica-kilbourne?trk=profile-badge">Jessica Kilbourne</a></div>
