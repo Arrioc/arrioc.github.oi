@@ -9,7 +9,7 @@
 </p>
 
 # __Professional Self-Assessment__
-The following self-assessment contains the many skills and abilities accumulated throughout my computer science program. They consist of team collaborations, stakeholder communications, data structures, algorithms, databases, software engineering, and security, and have helped to develop my strengths, shape my professional goals and values, and prepare me for a career in computer science. I expect to start as a developer, but I aspire to be an engineer.
+The following self-assessment contains the many skills and abilities accumulated throughout my computer science program. They consist of team collaborations, stakeholder communications, data structures, algorithms, databases, software engineering, and security, and have helped to develop my strengths, shape my professional goals and values, and prepare me for a career in computer science.
 
 ## Team Collaboration
 * In my CS 250 course, the Software Development Life Cycle (SDLC), we focused on the modern Agile method as well as the waterfall method for approaches to software design. We learned when and where these are best implemented, sometimes in a hybrid way (Cobb, 2015, pp. 44-45). This course gave me a good perspective on every role within the software development team by stepping into their respective roles and performing their duties, from the product owner (PO) to the Scrum Master (SM) to the developer, analyst, and tester.
